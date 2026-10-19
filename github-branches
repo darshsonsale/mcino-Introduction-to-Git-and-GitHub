@@ -1,0 +1,8 @@
+$ git branch -a -vv
+* bug-fix-revert                3734d14 [origin/bug-fix-revert] Revert "Fix typo in README"
+  bug-fix-typo                  c261bf0 [origin/bug-fix-typo: ahead 1] Polish README wording
+  main                          c261bf0 [origin/main] Polish README wording
+  remotes/origin/HEAD           -> origin/main
+  remotes/origin/bug-fix-revert 3734d14 Revert "Fix typo in README"
+  remotes/origin/bug-fix-typo   ef48421 Fix typo in README
+  remotes/origin/main           c261bf0 Polish README wording
